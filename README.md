@@ -1,4 +1,4 @@
-# Store
+# Storio Marketplace 
 
 Por Alexandre Magno e Gustavo Pacheco
 
