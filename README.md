@@ -62,17 +62,3 @@ Instale os seguintes programas, se ainda não os tiver:
 3. Execute o comando:
 
 ```docker-compose up```
-
-### Maven
-
-1. Clone o repositório:
-
-```git clone https://github.com/alemagno10/platform.store```
-
-2. Entre na pasta do repositório:
-
-```cd platform.store```
-
-3. Execute o comando:
-
-```mvn spring-boot:run```
