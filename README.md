@@ -36,6 +36,12 @@ O Storio Marketplace é um sistema de vitrine e venda de produtos virtual, desta
 
 ### [Docker](https://github.com/alemagno10/platform.store.docker-api)
 
+## Documentação
+
+Acesse a documentação swagger: `localhost:8080/{microservico}/swagger-ui.html`
+
+Exemplo: `localhost:8080/products/swagger-ui.html`
+
 ## Como rodar?
 
 Siga as instruções a seguir:
