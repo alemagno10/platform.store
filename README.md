@@ -26,7 +26,7 @@ O Storio Marketplace é um sistema de vitrine e venda de produtos virtual, desta
 ### Produtos:
 
 - [Products](https://github.com/gustavolp1/platform.store.products)
-- [Products-resource](https://github.com/gustavolp1/platform.store.products)
+- [Products-resource](https://github.com/gustavolp1/platform.store.products-resource)
 
 ### [Gateway](https://github.com/alemagno10/platform.store.gateway)
 
