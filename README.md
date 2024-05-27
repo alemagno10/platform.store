@@ -36,6 +36,8 @@ O Storio Marketplace é um sistema de vitrine e venda de produtos virtual, desta
 
 ### [Docker](https://github.com/alemagno10/platform.store.docker-api)
 
+### [Kafka](https://github.com/gustavolp1/platform.store.kafka)
+
 ## Documentação
 
 Acesse a documentação swagger: `localhost:8080/{microservico}/swagger-ui.html`
@@ -59,12 +61,12 @@ Instale os seguintes programas, se ainda não os tiver:
 
 1. Clone o repositório de docker:
 
-```git clone https://github.com/alemagno10/platform.store.docker-api```
+``git clone https://github.com/alemagno10/platform.store.docker-api``
 
 2. Entre na pasta do repositório:
 
-```cd platform.store.docker-api```
+``cd platform.store.docker-api``
 
 3. Execute o comando:
 
-```docker-compose up```
+``docker-compose up``
