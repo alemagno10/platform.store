@@ -1,12 +1,19 @@
 # Storio Marketplace
 
+<img src="img/logo.png">
+
 Por Alexandre Magno e Gustavo Pacheco
 
 ## O que é?
 
 O Storio Marketplace é um sistema de vitrine e venda de produtos virtual, destacando itens, parceiros e ofertas para clientes, além de proporcionar features de gerenciamento conveniente. Tudo é feito à base da conveniência - facilitando a interatividade de tanto usuários quanto administradores.
 
+<img src="img/frontend.jpg">
+
 ## Microserviços
+
+### Arquitetura
+<img src="img/creative.png">
 
 ### Usuários:
 
